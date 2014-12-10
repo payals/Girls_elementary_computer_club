@@ -27,3 +27,10 @@ Configuration:
 
 That's it! Open your browser and enter url "localhost/index.php" and you should see the familiar search page you saw in the demonstration. Enjoy!
 
+Screenshots:
+------------
+
+![alt-tag](https://raw.githubusercontent.com/payals/Girls_elementary_computer_club/master/screenshots/add_a_quote.png)
+![alt-tag](https://raw.githubusercontent.com/payals/Girls_elementary_computer_club/master/screenshots/quote_index.png)
+![alt-tag](https://raw.githubusercontent.com/payals/Girls_elementary_computer_club/master/screenshots/thanks_for_adding.png)
+![alt-tag](https://raw.githubusercontent.com/payals/Girls_elementary_computer_club/master/screenshots/search_quote.png)
