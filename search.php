@@ -32,8 +32,8 @@ if(strlen($search)<=1)
 echo "Search term too short";
 else{
 #echo "You searched for <b>$search</b> <hr size='1'>";
-mysql_connect("localhost","root","123qwerty");
-mysql_select_db("qdse");
+mysql_connect("localhost","your_user","user_password");
+mysql_select_db("database_name");
  
 $search_exploded = explode (" ", $search);
  

@@ -31,8 +31,8 @@ if(strlen($quote)<=10)
 echo "Are you sure this is a quote? :P<br><br>";
 else{
 echo "Thanks for adding <b>$quote</b> <hr size='1'></br>";
-mysql_connect("localhost","root","123qwerty");
-mysql_select_db("qdse");
+mysql_connect("localhost","your_user","user_password");
+mysql_select_db("database_name");
  
  
 $construct ="INSERT INTO quotes(author, quote, source, keywords) values('$quotee','$quote','$source','$keywords')";
